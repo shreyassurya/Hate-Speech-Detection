@@ -113,6 +113,5 @@ Hate-Speech-Detection/
 
 **Shreyas Suryawanshi**
 [GitHub Profile](https://github.com/shreyassurya)
-
 ---
 
